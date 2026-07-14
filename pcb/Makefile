@@ -5,8 +5,13 @@ GERBERS_DIR=$(OUTPUT_DIR)/gerbers
 GERBERS_ZIP=$(OUTPUT_DIR)/m2-fan-controller_gerbers.zip
 
 KICAD_CLI=kicad-cli
+KIKIT=kikit
 
-GERBERS_ZIP: $(KICAD_PCB)
+.PHONY: all clean
+
+all: $(GERBERS_ZIP)
+
+$(GERBERS_ZIP): $(KICAD_PCB)
 	mkdir -p $(OUTPUT_DIR)
 	mkdir -p $(GERBERS_DIR)
 	rm -rf $(GERBERS_DIR)/*
