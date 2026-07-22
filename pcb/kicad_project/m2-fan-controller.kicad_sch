@@ -7961,7 +7961,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AO3401A"
+		(property "Value" "AO3407A"
 			(at 130.81 246.3801 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10685,7 +10685,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AO3401A"
+		(property "Value" "AO3407A"
 			(at 63.5 246.3801 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12348,7 +12348,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AO3401A"
+		(property "Value" "AO3407A"
 			(at 200.66 246.3801 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12518,7 +12518,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AO3401A"
+		(property "Value" "AO3407A"
 			(at 270.51 246.3801 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -5175,6 +5175,17 @@
 		(path "/f088be01-0a24-4c1f-8cf9-db3c1cb5d8ad")
 		(sheetname "/")
 		(sheetfile "m2-fan-controller.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "52" "53" "55" "35" "37" "41" "43" "59" "61" "65" "67" "3" "5"
+					"66" "68" "70" "9" "11" "13" "15" "17" "19" "21" "23" "47" "49" "71"
+					"73" "72" "74" "4" "2" "63" "69" "57" "1" "51" "75" "7" "45" "33" "18"
+					"39" "64" "38" "40" "42" "58" "60" "62" "56" "54" "8" "10" "12" "14"
+					"20" "22" "32" "34" "36" "6" "16" "50" "48" "46" "44"
+				)
+			)
+		)
 		(clearance 0.1)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -7219,7 +7230,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "AO3401A"
+		(property "Value" "AO3407A"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "8a6bb573-ec6b-4a5f-8f68-19fd78b5207c")
@@ -8120,7 +8131,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "AO3401A"
+		(property "Value" "AO3407A"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "758ed62f-63d8-4e48-bc1b-69aaa323210d")
@@ -8495,7 +8506,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "AO3401A"
+		(property "Value" "AO3407A"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "7884a742-7bdf-4461-b970-1edf424c4c38")
@@ -9364,7 +9375,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
-		(path "/f4f57631-8624-458f-89ae-03be8035cf7a")
+		(path "/d23eefa5-e5e6-4eae-a1f9-12d23bcc9c8f")
 		(sheetname "/")
 		(sheetfile "m2-fan-controller.kicad_sch")
 		(units
@@ -10503,7 +10514,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "AO3401A"
+		(property "Value" "AO3407A"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "4e6ef399-1cb8-47b0-8e15-49db4d47f8f3")
@@ -10918,6 +10929,12 @@
 		(path "/0ae9d687-58d0-4d01-bdda-b01b33d44aea")
 		(sheetname "/")
 		(sheetfile "m2-fan-controller.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
