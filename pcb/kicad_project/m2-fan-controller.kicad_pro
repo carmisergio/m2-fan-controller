@@ -82,7 +82,7 @@
           ""
         ],
         [
-          "hole_clearance|127800000|86750000|e4afd093-b389-4232-829a-b4a49c70bd2d|b4b32b1e-143e-428a-b0ee-961beb881ec5",
+          "lib_footprint_mismatch|136450000|91180000|ff4c1fc5-934f-41ac-952a-c6ed181cce39|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -271,8 +271,8 @@
           "drill": 0.3
         },
         {
-          "diameter": 0.75,
-          "drill": 0.4
+          "diameter": 1.0,
+          "drill": 0.5
         }
       ],
       "zones_allow_external_fillets": false
@@ -733,7 +733,7 @@
         "uuid": "827e5d05-dc45-455c-8601-73dd5627afa3"
       }
     ],
-    "used_designators": "C4",
+    "used_designators": "C4-5",
     "variants": []
   },
   "sheets": [
